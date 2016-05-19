@@ -1,0 +1,4 @@
+locationId,casinoName,city,state,lat,long
+1,Harrah's Laughlin Casino & Hotel,Laughlin,NV,35.14412,-114.57657
+2,Harrah's Reno Hotel & Casino,Reno,NV,39.52763,-119.81252
+3,Harrah's Resort Atlantic City,Atlantic City,NJ,39.38430,-74.42826
