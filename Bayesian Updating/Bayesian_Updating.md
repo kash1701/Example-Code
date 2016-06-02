@@ -23,12 +23,10 @@ There are many ways the Bayesian updating process is presented and while the not
 The presentation here is from [Wikipedia](https://en.wikipedia.org/wiki/Conjugate_prior). Note that we assume the signal variance $\sigma^2$ is known, an assumption that will be relaxed later.
 
 Posterior Mean:
- {% raw %}
 $$\mu_n =  \left(\frac{\mu_0}{\sigma_0^2} + \frac{\sum_{i=1}^nx_i}{\sigma^2} \right) \bigg/  \left( \frac{1}{\sigma_0^2} + \frac{n}{\sigma^2} \right) $$
 
 Posterior Variance:
 $$\sigma^2_n = \left( \frac{1}{\sigma_0^2} + \frac{n}{\sigma^2} \right)^{-1} $$
- {% endraw %}
 
 The formula is easily converted into R:
 
