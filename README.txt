@@ -7,3 +7,5 @@ via the Google Maps API.
 
 "Bayesian Updating" illustrates the Bayesian updating process, which is commonly used in learning models.
 -Apologies for the exposed Latex - GitHub does not yet support this
+
+"Create an R Package" shows how to create an R package that uses RcppArmadillo and a custom header file.
