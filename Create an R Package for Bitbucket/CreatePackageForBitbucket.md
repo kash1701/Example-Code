@@ -1,4 +1,4 @@
-# Create a Simple R Package using RcppArmadillo with Header File
+# Create a Simple R Package for Bitbucket
 Wayne Taylor  
 October 29, 2014  
 
