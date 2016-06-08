@@ -2,9 +2,6 @@
 Wayne Taylor  
 March 5, 2015  
 
-#### Author: Wayne Taylor
-#### Date: 03/05/2015
-
 ### Step 1: Create the Package Skeleton
   - Make sure the following packages are loaded: tools, devtools, Rcpp, RcppArmadillo
   - Run `RcppArmadillo.package.skeleton("testPackageRcpp",example_code = FALSE)` to create the skeleton files
